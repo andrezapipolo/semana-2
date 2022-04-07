@@ -1,4 +1,4 @@
-<h1>💠 Atividade da semana 02 💠</h1> :
+<h1>💠 Atividade da semana 02 💠</h1> 
 
 🔹Começamos com o famoso Javascript com seus pontos positivos, negativos e outras regrinhas, instalamos o Node.js para que a gente não fique dependente do navegador.
 
