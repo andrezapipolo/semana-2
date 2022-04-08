@@ -8,6 +8,4 @@
 
 🔹Não podemos esquecer das variáveis vistas na aula que consistem em Operadores Aritméticos, Atribuição, Comparação, Lógicos.
 
-<p align="center">
-  <img src="https://blog.clubedeautores.com.br/wp-content/uploads/2019/06/book-1283865_640-640x410.jpg" />
-</p>
+<img src="livro.jpg" alt="some text" width=60 height=40>
